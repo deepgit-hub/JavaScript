@@ -1,4 +1,4 @@
-❓ Question 2: Addition of Two Numbers
+/* ❓ Question 2: Addition of Two Numbers
 
 👉 Create:
 
@@ -13,7 +13,7 @@ Result
 
 using:
 
-console.log()
+console.log() */
 
 var num1 = 10
 var num2 = 20
