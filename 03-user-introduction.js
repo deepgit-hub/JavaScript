@@ -1,4 +1,4 @@
-❓ Question 3: User Introduction
+/* ❓ Question 3: User Introduction
 
 👉 Create variables for:
 
@@ -9,6 +9,7 @@ City
 Print a sentence like:
 
 My name is Deepak. I am learning JavaScript. I live in Vaniyambadi.
+*/
 var name = "Deepak"
 var skill = "Javascirpt"
 var city ="Vaniymabdi"
