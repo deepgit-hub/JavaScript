@@ -1,3 +1,4 @@
+/* */
 var math = 95
 var science = 60
 var eng = 35
