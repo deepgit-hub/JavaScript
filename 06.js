@@ -1,4 +1,17 @@
-/* */
+/* ❓ Question 06: Total and Average Marks
+
+👉 Create variables for marks in:
+
+Math
+Science
+English
+
+Tasks:
+
+Find total marks
+Find average marks
+Print all subject marks
+Print total and average clearly*/
 var math = 95
 var science = 60
 var eng = 35
