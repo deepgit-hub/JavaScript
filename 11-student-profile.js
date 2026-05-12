@@ -9,7 +9,7 @@ Is present today (boolean)
 Address (null)
 Phone number (undefined)
 
-Print all variables using:
+Print all variables data typesusing:
 
 console.log()
 */
