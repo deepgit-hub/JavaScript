@@ -1,4 +1,24 @@
-/**/
+/*
+❓ Question 09: Electricity Bill Calculator
+
+👉 Create variables for:
+
+Customer name
+Units consumed
+Cost per unit
+
+Tasks:
+
+Calculate total electricity bill
+Add 5% tax to the bill
+Find final amount
+
+Formula:
+
+Final Amount=(Units×Cost Per Unit)+5% Tax
+
+Print all details clearly
+*/
 var name = "Deepak"
 var units_used = 356
 var cost_per_unit = 8
