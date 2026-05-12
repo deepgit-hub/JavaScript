@@ -1,3 +1,23 @@
+❓ Question 5: Student Details
+
+👉 Create variables for:
+
+Student name
+Department
+College
+CGPA
+
+Print output like:
+
+Student Name: Deepak
+Department: Computer Science
+College: Don Bosco College
+CGPA: 8.5
+
+using:
+
+console.log()
+
 var name  = "Deepak"
 var dep ="Computer Science"
 var college = "Don Bosco College"
