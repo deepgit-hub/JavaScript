@@ -1,4 +1,4 @@
-❓ Question 5: Student Details
+/*❓ Question 5: Student Details
 
 👉 Create variables for:
 
@@ -16,7 +16,7 @@ CGPA: 8.5
 
 using:
 
-console.log()
+console.log() */
 
 var name  = "Deepak"
 var dep ="Computer Science"
