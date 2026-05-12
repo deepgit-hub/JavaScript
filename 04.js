@@ -1,3 +1,4 @@
+/* */
 var length =2
 var width = 4
 var area = length*width
