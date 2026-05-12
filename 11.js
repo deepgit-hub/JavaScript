@@ -1,3 +1,5 @@
+/*
+*/
 var student_name = "Deepak"
 var age = 19
 var attendence = false
