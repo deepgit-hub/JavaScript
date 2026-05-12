@@ -1,4 +1,17 @@
 /*
+❓ Question 11: Student Profile
+
+👉 Create variables for:
+
+Student name (string)
+Age (number)
+Is present today (boolean)
+Address (null)
+Phone number (undefined)
+
+Print all variables using:
+
+console.log()
 */
 var student_name = "Deepak"
 var age = 19
