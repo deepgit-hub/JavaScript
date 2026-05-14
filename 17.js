@@ -1,3 +1,4 @@
+/**/
 function atmsystem(name,balance,withdraw,pin)
 {
     var correct_pin = 2911
