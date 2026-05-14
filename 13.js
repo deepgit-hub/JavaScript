@@ -1,15 +1,15 @@
-❓ Question 13: Product Discount Calculator
+/*❓ Question 13: Product Discount Calculator
 
-Create a JavaScript function named discount() that takes a product name, product price, and discount percentage as parameters. The function should calculate the discount amount and final product price after discount, print all details using console.log(), and return the final price.
+Create a JavaScript function named discount() that takes a product name, product price, and discount percentage as parameters. 
+The function should calculate the discount amount and 
+final product price after discount, 
+print all details using console.log(), 
+and return the final price.
 
 Formula:
 
-Final Price=Price−(
-100
-Price×Discount
-	​
-
-)
+Final Price=Price−(Price×Discount)/100
+*/
 function discount(name,price,dis_per)
 {
     console.log("Product : "+name)
