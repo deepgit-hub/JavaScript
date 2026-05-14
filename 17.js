@@ -1,4 +1,39 @@
-/**/
+/*
+❓ Question 17: ATM Withdrawal System
+
+Create a JavaScript function named atmSystem() that takes:
+
+account holder name
+account balance
+withdrawal amount
+PIN entered
+
+The ATM system should follow these rules:
+
+First check whether PIN is correct.
+Correct PIN = 1234
+If PIN is wrong:
+Print "Incorrect PIN"
+If PIN is correct:
+Check account balance:
+If withdrawal amount is greater than balance:
+Print "Insufficient Balance"
+
+Else:
+
+Check minimum balance rule:
+Account must maintain ₹1000 minimum balance after withdrawal.
+If minimum balance rule breaks:
+Print "Minimum Balance Rule Violated"
+
+Else:
+
+Deduct amount
+Print:
+
+withdrawal success
+remaining balance
+*/
 function atmsystem(name,balance,withdraw,pin)
 {
     var correct_pin = 2911
