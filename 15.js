@@ -1,3 +1,4 @@
+/**/
 function movieticket(name,movie,price,count)
 {
     console.log("----Your Booking Details----")
