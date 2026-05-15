@@ -1,3 +1,4 @@
+/**/
 function examhallpermission(name,roll_no,attendence,exam_fee,id)
 {
     if(attendence>75)
