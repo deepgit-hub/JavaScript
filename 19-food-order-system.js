@@ -20,14 +20,18 @@ Total Cost=Quantity×Price Per Item
 If customer is a premium member:
 Give 20% discount.
 Otherwise:
+
 Give 5% discount.
 After discount:
 Check wallet balance.
 If wallet balance is insufficient:
+
 Print "Insufficient Wallet Balance"
 Else:
 Deduct amount from wallet
+
 Print:
+
 customer details
 food item
 final amount
