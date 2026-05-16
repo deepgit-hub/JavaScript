@@ -16,6 +16,7 @@ function foodOrder(name,food,qauntity,price,wallet,membership)
 
         }
         else{
+             total -= total*(5/100)
             wallet -=total
             console.log("---Customer Details---")
             console.log("Name      : "+name)
