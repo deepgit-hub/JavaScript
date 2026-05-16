@@ -1,4 +1,4 @@
-❓ Question 19: Online Food Order System
+/*❓ Question 19: Online Food Order System
 
 Create a JavaScript function named foodOrder() that takes:
 
@@ -33,6 +33,7 @@ food item
 final amount
 remaining wallet balance
 "Order Placed Successfully"
+*/
 function foodOrder(name,food,qauntity,price,wallet,membership)
 {
     var total = qauntity * price
