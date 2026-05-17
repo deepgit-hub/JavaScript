@@ -26,10 +26,13 @@ Else:
 Print "Purchase Failed"
 If purchase succeeds:
 Print:
+
 customer name
 final laptop price
+
 remaining balance
-*/function laptopPurchase(name,price,budget,student,loan)
+*/
+function laptopPurchase(name,price,budget,student,loan)
 {
     if(student==true)
     {
