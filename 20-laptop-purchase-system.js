@@ -1,4 +1,4 @@
-function laptopPurchase(name,price,budget,student,loan)
+/**/function laptopPurchase(name,price,budget,student,loan)
 {
     if(student==true)
     {
