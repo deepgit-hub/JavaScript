@@ -1,4 +1,4 @@
-❓ Question 22: Online Course Access System
+/* ❓ Question 22: Online Course Access System
 
 Create a JavaScript function named courseAccess() that takes:
 
