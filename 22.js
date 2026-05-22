@@ -26,7 +26,7 @@ Print "Please Login to Continue"
 If everything is valid:
 Print:
 student name
-"Access Granted to Course"
+"Access Granted to Course" */
 function courseaccess(name,couse_purchased,course_expiry,internet,login)
 {
      if(couse_purchased && !course_expiry && internet && login)
