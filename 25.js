@@ -11,7 +11,7 @@ System Safe
 
 When button is clicked, change it to:
 
-System Hacked
+System Hacked */
 <html>
     <body>
         <h1 id="title">System is Safe Now!!!</h1>
