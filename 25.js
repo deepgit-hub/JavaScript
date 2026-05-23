@@ -1,4 +1,4 @@
-🎯 Question 25 — Cyber Alert 🚨
+/* 🎯 Question 25 — Cyber Alert 🚨
 
 Create:
 
