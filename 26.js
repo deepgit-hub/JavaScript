@@ -1,4 +1,4 @@
-html
+/* html
 🎯 Question 26 — Light Controller 💡
 
 Create:
