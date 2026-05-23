@@ -1,3 +1,17 @@
+🎯 Question 25 — Cyber Alert 🚨
+
+Create:
+
+one heading
+one button
+
+Initially heading should display:
+
+System Safe
+
+When button is clicked, change it to:
+
+System Hacked
 <html>
     <body>
         <h1 id="title">System is Safe Now!!!</h1>
