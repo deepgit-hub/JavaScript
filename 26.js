@@ -26,7 +26,7 @@ OFF
 
 When clicked:
 
-Light OFF
+Light OFF */
 <html>
     <body>
         <h1 id="title">Light is OFF!!!</h1>
