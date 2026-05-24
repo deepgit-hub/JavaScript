@@ -1,3 +1,4 @@
+/**/
 <html>
     <body>
         <h1 onmouseover="change()" onmouseout="notchange()" id="title">System Idle</h1>
