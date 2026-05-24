@@ -1,4 +1,4 @@
-<html>
+/* <html>
     <body>
         <h1 id="title">Normal User</h1>
         <button onclick="lin()" id="but">log in</button>
