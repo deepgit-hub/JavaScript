@@ -1,4 +1,15 @@
-/**/
+/*
+📂 Question 31 — Security Status
+Task
+
+When mouse enters:
+
+System Active
+
+When mouse leaves:
+
+System Idle
+*/
 <html>
     <body>
         <h1 onmouseover="change()" onmouseout="notchange()" id="title">System Idle</h1>
