@@ -5,7 +5,7 @@
         <button onclick="out()" id="but">log out</button>
         
     </body>
-</html>
+</html> */
 <script>
     function lin()
     {
