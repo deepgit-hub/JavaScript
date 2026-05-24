@@ -1,3 +1,17 @@
+/* 🎯 Question 27 — Theatre Status 🎬
+
+Create:
+
+one heading
+one button
+
+Initially heading should display:
+
+Seats Available
+
+When button is clicked:
+
+House Full */
 <html>
     <body>
         <h1 id="title">Tickets are available</h1>
