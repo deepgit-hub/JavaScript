@@ -1,4 +1,4 @@
-/* 📂 Question 40 — System Boot 💻
+/* 📂 Question 38 — System Boot 💻
 Task
 
 When page loads:
