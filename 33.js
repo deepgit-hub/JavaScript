@@ -1,4 +1,4 @@
-<html>
+/**/<html>
     <body>
        <input id="input" onchange="change()" placeholder="name">
         <h1 id="result" >Hello</h1>
