@@ -1,3 +1,4 @@
+/**/
 <html>
     <body>
        <input id="input" onchange="change()" placeholder="college">
