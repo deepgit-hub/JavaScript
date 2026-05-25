@@ -1,4 +1,11 @@
-/**/
+/*
+📂 Question 35 — Typing Detector ⌨️
+Task
+
+When user presses keyboard:
+
+Typing Started...
+*/
 <html>
     <body>
        <input id="input" onkeydown="typing()" placeholder="type something">
