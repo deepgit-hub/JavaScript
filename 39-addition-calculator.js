@@ -16,7 +16,8 @@ display result
     <body>
        <input id="num1">
        <input id="num2">
-       <button id="button" onclick="add()">Add</button>
+       <button id="button" onclick="add()">Addition</button>
+       <button id="button" onclick="sub()">Subraction</button>
        <h1 id="result">Result : </h1>
 
 
@@ -30,6 +31,15 @@ display result
         var total = Number(a)+Number(b)
         var result = document.getElementById("result")
         result.textContent ="Result : "+total
-        
+         
+    }
+    function sub()
+    {
+        var a = document.getElementById("num1").value
+        var b = document.getElementById("num2").value
+        var total = Number(a)-Number(b)
+        var result = document.getElementById("result")
+        result.textContent ="Result : "+total
+         
     }
 </script>
