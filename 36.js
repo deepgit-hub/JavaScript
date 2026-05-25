@@ -1,4 +1,11 @@
-/**/
+/*
+📂 Question 36 — Hacker Console 😎
+Task
+
+When user presses any key:
+
+Accessing System...
+*/
 <html>
     <body>
        <input id="input" onkeydown="hack()" >
