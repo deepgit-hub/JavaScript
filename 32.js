@@ -1,4 +1,15 @@
-/**/
+/*
+📂 Question 32 — Light Effect 💡
+Task
+
+Mouse over:
+
+Light ON
+
+Mouse out:
+
+Light OFF
+*/
 <html>
     <body>
        
