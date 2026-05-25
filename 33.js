@@ -1,4 +1,15 @@
-/**/<html>
+/*
+📂 Question 33 — Name Input
+Task
+
+User types name in input box.
+
+When value changes:
+
+Hello Deepak
+
+should display.
+*/<html>
     <body>
        <input id="input" onchange="change()" placeholder="name">
         <h1 id="result" >Hello</h1>
