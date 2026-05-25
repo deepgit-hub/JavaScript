@@ -1,3 +1,4 @@
+/**/
 <html>
     <body>
        <input id="input" onkeydown="typing()" placeholder="type something">
