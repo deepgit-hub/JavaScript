@@ -1,4 +1,15 @@
-/**/
+/*
+📂 Question 34 — College Input
+Task
+
+Input:
+
+Don Bosco
+
+Display:
+
+College : Don Bosco
+*/
 <html>
     <body>
        <input id="input" onchange="change()" placeholder="college">
