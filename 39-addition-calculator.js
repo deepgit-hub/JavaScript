@@ -1,4 +1,4 @@
-/* 🎯 Question 38 — Addition Calculator ➕
+/* 🎯 Question 38 — Addition & Subraction Calculator ➕
 
 Create:
 
@@ -9,6 +9,7 @@ Create:
 When button clicked:
 
 add both numbers
+sub both numbers 
 display result
     */
 <html>
