@@ -1,4 +1,4 @@
-🎯 Question 38 — Addition Calculator ➕
+/* 🎯 Question 38 — Addition Calculator ➕
 
 Create:
 
@@ -10,6 +10,7 @@ When button clicked:
 
 add both numbers
 display result
+    */
 <html>
     <body>
        <input id="num1">
