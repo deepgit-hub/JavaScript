@@ -1,4 +1,4 @@
-🎯 Question — Live Name Preview 😎
+/* 🎯 Question — Live Name Preview 😎
 
 Create:
 
@@ -6,7 +6,7 @@ one input box
 one heading
 
 When user types inside input box,
-the heading should update LIVE
+the heading should update LIVE */
 <input id="text" onkeyup="change()">
 
 <h1 id="result"></h1>
