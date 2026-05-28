@@ -1,4 +1,31 @@
+📂 Question 44 — Dynamic Name Selector
+🎯 Task
 
+Initially:
+
+Name
+
+When clicking:
+
+Button 1
+Deepak
+
+Output:
+
+Mr. Deepak
+Button 2
+Kathir
+
+Output:
+
+Mr. Kathir
+Button 3
+Aashik
+
+Output:
+
+Mr. Aashik
+    
 <h1 id="name">Name</h1>
 <button id="btn1" onclick="change1()">Deepak</button>
 <button id="btn2" onclick="change2()">Kathir</button>
