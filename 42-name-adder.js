@@ -18,3 +18,19 @@ output:
 
 inside the div.
 */
+
+<input id="name">
+<button onclick="add()">Add Name</button>
+<div id="d">
+
+</div>
+<script>
+    var i = document.getElementById("name")
+    function add()
+    {
+        var c = document.createElement("h2")
+        c.textContent=i.value
+        d.append(c)
+        
+    }
+</script>
