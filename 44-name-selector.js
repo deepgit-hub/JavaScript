@@ -1,4 +1,4 @@
-📂 Question 44 — Dynamic Name Selector
+/* 📂 Question 44 — Dynamic Name Selector
 🎯 Task
 
 Initially:
@@ -25,6 +25,7 @@ Aashik
 Output:
 
 Mr. Aashik
+    */
     
 <h1 id="name">Name</h1>
 <button id="btn1" onclick="change1()">Deepak</button>
