@@ -1,4 +1,4 @@
-/* 🎯 Question 42 (Next Challenge)
+/* 🎯 Question 42 (Name adder)
 
 Create:
 
