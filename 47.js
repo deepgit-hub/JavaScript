@@ -1,3 +1,4 @@
+/**/
 <html>
     <h1 onclick="deleteh(event)">One</h1>
     <h1 onclick="deleteh(event)">Two</h1>
