@@ -1,4 +1,4 @@
-.
+/* .
 
 📂 Question 48 — Add Heading Using innerHTML
 🎯 Task
@@ -16,3 +16,4 @@ Output:
 <h1>Hello Deepak</h1>
 
 should appear inside the div.
+*/
