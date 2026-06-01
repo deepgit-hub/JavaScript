@@ -21,7 +21,7 @@ or
 
 Hello Mr Antony Kevin
 
-should appear. */
+should appear. *
 <h1 id="result">Name</h1>
 <button  onclick="update(event)">Deepak</button>
 <button  onclick="update(event)">Kathir</button>
