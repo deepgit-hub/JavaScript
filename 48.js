@@ -17,3 +17,14 @@ Output:
 
 should appear inside the div.
 */
+<div id="d">
+
+</div>
+<button onclick="addh()">Add Heading</button>
+<script>
+    var di = document.getElementById("d")
+    function addh()
+    {
+    di.innerHTML="<h1>Assalam Walaikum Lyari</h1>"
+    }
+</script>
