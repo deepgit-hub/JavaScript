@@ -1,4 +1,4 @@
-📂 Question 54 — getElementsByTagName()
+/*📂 Question 54 — getElementsByTagName()
 🎯 Task
 
 Create:
@@ -19,4 +19,4 @@ DOM Master
 
 Use:
 
-document.getElementsByTagName("p")
+document.getElementsByTagName("p") */
