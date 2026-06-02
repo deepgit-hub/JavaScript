@@ -1,3 +1,4 @@
+/**/
 <h1 id="h">Offline</h1>
 <button onclick="change()">Change</button>
 <script>
