@@ -1,4 +1,23 @@
-/**/
+/*
+📂 Question 53 — getElementsByClassName()
+🎯 Task
+
+Create:
+
+<h1 class="student">Deepak</h1>
+<h1 class="student">Kathir</h1>
+<h1 class="student">Antony</h1>
+
+<button>Highlight First</button>
+
+When button clicked:
+
+Only the first student name becomes red.
+
+Use:
+
+document.getElementsByClassName()
+*/
 <html>
     <h1 class="student">Deepak</h1>
     <h1 class="student">Kathir</h1>
