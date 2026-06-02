@@ -1,3 +1,24 @@
+
+📂 Question 51 — querySelectorAll()
+🎯 Task
+
+Create:
+
+<h1>Java</h1>
+<h1>Python</h1>
+<h1>JavaScript</h1>
+
+<button>Change All</button>
+
+When button clicked:
+
+All headings become:
+
+Programming Language
+
+Use:
+
+document.querySelectorAll("h1")
 <h1>Java</h1>
 <h1>Python</h1>
 <h1>JavaScript</h1>
