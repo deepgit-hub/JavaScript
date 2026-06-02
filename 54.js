@@ -20,3 +20,16 @@ DOM Master
 Use:
 
 document.getElementsByTagName("p") */
+<html>
+    <p>Java</p>
+    <p>Python</p>
+    <p>Java Script</p>
+    <button onclick="change()">Change Last</button>
+    <script>
+        function change()
+        {
+            var a =document.getElementsByTagName("p")
+            a[2].textContent="DOM Master"
+        }
+    </script>
+</html>
