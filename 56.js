@@ -1,4 +1,4 @@
-📂 Question 56 — Insert After Element
+/*📂 Question 56 — Insert After Element
 🎯 Task
 
 Create:
@@ -15,7 +15,7 @@ When button clicked:
     <h1>Frontend Developer</h1>
 </div>
 
-<h1>Cyber Security Expert</h1>
+<h1>Cyber Security Expert</h1>*/
 
 <div id="box">
     <h1>Front-End Developer</h1>
