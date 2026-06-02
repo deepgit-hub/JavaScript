@@ -1,4 +1,4 @@
-
+/*
 📂 Question 51 — querySelectorAll()
 🎯 Task
 
@@ -18,7 +18,7 @@ Programming Language
 
 Use:
 
-document.querySelectorAll("h1")
+document.querySelectorAll("h1") */
 <h1>Java</h1>
 <h1>Python</h1>
 <h1>JavaScript</h1>
