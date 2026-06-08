@@ -1,4 +1,4 @@
-🏆 Question 58
+/* 🏆 Question 58
 Mouse Over Warning
 Mouse over heading
 ↓
@@ -15,4 +15,4 @@ Color → Red
 Use:
 
 mouseover
-style.color
+style.color */
