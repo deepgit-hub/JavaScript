@@ -1,4 +1,4 @@
-🏆 Question 57
+/*🏆 Question 57
 Change Text on Click
 Click button
 ↓
@@ -16,3 +16,5 @@ I Was Clicked!
 Use:
 
 addEventListener("click", ...)
+ */ 
+<button id="btn">Click ME</button>
