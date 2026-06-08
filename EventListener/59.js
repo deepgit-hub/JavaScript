@@ -1,4 +1,4 @@
-🏆 Question 59
+/*🏆 Question 59
 Double Click Surprise
 Double click button
 ↓
@@ -8,3 +8,4 @@ Alert appears:
 Use:
 
 dblclick
+*/
