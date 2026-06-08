@@ -18,3 +18,9 @@ Use:
 addEventListener("click", ...)
  */ 
 <button id="btn">Click ME</button>
+<script>
+var b = document.getElementById("btn")
+b.addEventListener("click",function(){
+    b.textContent="I Was Clicked!"
+})
+  </script>
