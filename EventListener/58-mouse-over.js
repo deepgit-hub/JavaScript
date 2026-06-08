@@ -17,3 +17,9 @@ Use:
 mouseover
 style.color */
 <h1 id="title">Don't touch ME!!!</h1>
+  <script>
+var b = document.getElementById("title")
+b.addEventListener("mouseover",function(){
+    b.style.color="red"
+})
+  </script>
