@@ -25,3 +25,16 @@ variable
 
 count++
 */
+<h1 >Count : <span id="count">0</span></h1>
+<button id="btn">increase</button>
+<script>
+  var c = document.getElementById("count")
+var b = document.getElementById("btn")
+var count = 0
+b.addEventListener("click",function()
+{
+    count++
+    
+    c.textContent=count
+})
+  </script>
