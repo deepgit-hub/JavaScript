@@ -23,7 +23,7 @@ Print all values clearly
 */
 var principle_amount = 20000
 var intrest = 5
-var years =2
+var years =5
 var simple_intrest = (principle_amount*intrest*years)/100
 console.log("Principle Amount : "+principle_amount)
 console.log("Intrest : "+intrest)
