@@ -20,7 +20,7 @@ Total Salary=Basic Salary+HRA+Bonus
 Print all values clearly
 */
 var emp_name = "Deepak"
-var basic_salary = 20000
+var basic_salary = 25000
 var hra = (basic_salary*20)/100
 var bonus = (basic_salary*10)/100
 var total_salary = basic_salary+hra+bonus
