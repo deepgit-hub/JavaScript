@@ -12,7 +12,7 @@ console.log() */
 
 var name = "Deepak"
 var age = 20
-var college ="DBC International"
+var college ="Don Bosco College Yelagiri"
 console.log(name)
 console.log(age)
 console.log(college)
