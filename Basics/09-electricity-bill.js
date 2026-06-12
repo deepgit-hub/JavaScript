@@ -20,7 +20,7 @@ Final Amount=(Units×Cost Per Unit)+5% Tax
 Print all details clearly
 */
 var name = "Deepak"
-var units_used = 356
+var units_used = 357
 var cost_per_unit = 8
 var amount = units_used * cost_per_unit
 var total_amount = amount + (amount*5)/100
