@@ -13,7 +13,7 @@ Find average marks
 Print all subject marks
 Print total and average clearly*/
 var math = 95
-var science = 60
+var science = 80
 var eng = 35
 var avg = (math+science+eng)/3
 var total = math + science + eng
