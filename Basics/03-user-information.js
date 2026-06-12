@@ -11,6 +11,6 @@ Print a sentence like:
 My name is Deepak. I am learning JavaScript. I live in Vaniyambadi.
 */
 var name = "Deepak"
-var skill = "Javascirpt"
+var skill = "Web Development"
 var city ="Vaniymabdi"
 console.log("My name is " +name+ ", Im learning " +skill+" and Im living in "+city)
