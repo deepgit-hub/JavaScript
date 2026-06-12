@@ -15,6 +15,6 @@ Formula:
 area = length * width
 */
 var length =2
-var width = 4
+var width = 5
 var area = length*width
 console.log("Area of the Rectangle is "+area)
