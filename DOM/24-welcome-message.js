@@ -1,4 +1,4 @@
-/* 🎯 Question24 — Welcome Message
+/* 🎯 Question 24 — Welcome Message
 
 Create:
 
