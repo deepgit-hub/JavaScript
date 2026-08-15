@@ -1,6 +1,5 @@
 /*🏆 Question 61
 Count Button Clicks
-
 Create:
 
 <button id="btn">Click Me</button>
