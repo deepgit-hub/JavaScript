@@ -2,7 +2,6 @@
 🎯 Question 26 — Light Controller 💡
 
 Create:
-
 one heading
 TWO buttons
 
