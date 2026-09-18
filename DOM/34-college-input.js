@@ -1,4 +1,4 @@
-/*
+/* 
 📂 Question 34 — College Input
 Task
 
