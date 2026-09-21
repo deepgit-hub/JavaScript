@@ -7,7 +7,7 @@ Alert appears:
 
 Use:
 
-blclick
+dblclick
 */
 <button id="btn">Click</button>
 <script>
