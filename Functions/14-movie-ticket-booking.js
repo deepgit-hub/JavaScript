@@ -10,7 +10,7 @@ print all booking details using console.log(),
 and return the final amount.
 
 Formula:
-
+ 
 Total Amount=Ticket Price×Number of Tickets
 */
 function movieticket(name,movie,price,count)
