@@ -14,7 +14,7 @@ Total Salary=Salary+Bonus
 */
 function salary(name,salary,bonus)
 {
-    console.log("Name of the Employee : "+name)
+    console.log("Name of the Employee : "+name) 
 
     return salary+bonus
 }
