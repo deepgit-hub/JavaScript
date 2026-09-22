@@ -15,6 +15,7 @@ Total Amount=Ticket Price×Number of Tickets
 */
 function movieticket(name,movie,price,count)
 {
+    
     console.log("----Your Booking Details----")
     console.log("Name                : "+name)
     console.log("Movie               : "+movie)
