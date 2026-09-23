@@ -10,10 +10,7 @@ and return the BMI.
 
 Formula:
 
-BMI=
-Height
-2
-Weight
+
 	​
 
 */
