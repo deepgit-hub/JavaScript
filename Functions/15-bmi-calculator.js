@@ -9,7 +9,7 @@ print all details using console.log(),
 and return the BMI.
 
 Formula:
-
+bmi = w/(h*h)
 
 	​
 
