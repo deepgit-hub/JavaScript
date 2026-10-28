@@ -10,5 +10,4 @@ Expected Output:
 Hello, Deepak!
 */
 
-
-
+console.log("Hello,Deepak!!!")
