@@ -1,4 +1,4 @@
-// Question 9:
+// Question 02:
 // Predict the output of the following expressions.
 // Store each result in a separate variable.
 // Print each result along with its typeof.
