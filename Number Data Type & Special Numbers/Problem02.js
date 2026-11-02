@@ -10,3 +10,13 @@
 // 0 / -5
 
 //Solution
+a=10/0
+b=-10/0
+c=0/0
+d=100/0
+e=0/-5
+console.log(a,typeof a)
+console.log(b,typeof b)
+console.log(c,typeof c)
+console.log(d,typeof d)
+console.log(e,typeof e)
