@@ -5,3 +5,12 @@
 
 
 //Solution
+let a =10
+let b=12.5
+let c= 12.422
+let d=19.09863644
+console.log(typeof a)
+console.log(typeof b)
+console.log(typeof c)
+console.log(typeof d)
+
