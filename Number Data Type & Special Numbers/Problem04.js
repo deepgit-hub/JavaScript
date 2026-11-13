@@ -1,3 +1,9 @@
+// Question 2:
+// Create five different mathematical expressions
+// that produce NaN.
+// Store each result in a separate variable.
+// Print every result and its typeof.
+
 let a = Infinity/Infinity
 let b = Infinity% Infinity
 let c = Infinity-Infinity
