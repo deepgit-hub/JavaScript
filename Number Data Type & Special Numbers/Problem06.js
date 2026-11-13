@@ -1,4 +1,4 @@
-// Question 5 — Challenge:
+// Question 06 — Challenge:
 //
 // Create a small mathematical experiment.
 //
