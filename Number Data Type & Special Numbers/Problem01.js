@@ -9,10 +9,12 @@ let a =10
 let b=12.5
 let c= 12.422
 let d=19.09863644
+let e = -5
 console.log(a,typeof a)
 console.log(b, typeof b)
 console.log(c, typeof c)
 console.log(d, typeof d)
+console.log(e, typeof e)
 
 
 
