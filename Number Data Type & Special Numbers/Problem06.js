@@ -9,7 +9,7 @@
 // 5. Add comments explaining why each special result occurs.
 //
 // Do not use concepts you haven't learned yet.
-
+ 
 let a = NaN+NaN 
 let b = Infinity*12
 let c = NaN - NaN
