@@ -9,9 +9,13 @@
 // Infinity - Infinity
 //
 // Store each result separately and print its value and typeof.
-
-console.log(NaN===NaN)
-console.log(NaN+100)
+let a = NaN===NaN
+let b = NaN+100
+let c =
+let d =
+let e =  
+console.log()
+console.log()
 console.log(NaN**0)
 console.log(Infinity*0)
 console.log(-Infinity/2)
