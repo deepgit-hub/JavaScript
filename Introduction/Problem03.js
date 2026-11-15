@@ -15,4 +15,5 @@ Building projects with confidence.
 // Solution
 
 //Welcome to DEEPEX!
+/*Learning JavaScript step by step*/
 console.log("This is about comment line!!!")
