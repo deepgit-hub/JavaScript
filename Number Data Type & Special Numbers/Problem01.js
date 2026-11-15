@@ -5,7 +5,7 @@
 
 
 //Solution
-let a =10
+let a =5
 let b=12.5
 let c= 12.422
 let d=19.09863644
