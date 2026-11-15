@@ -15,5 +15,5 @@ My goal is Cybersecurity.
 // Solution
 
 console.log("My name is Deepak.")
-console.log("I am learning JavaScript.")
+console.log("I am currently learning JavaScript.")
 console.log("My goal is Cybersecurity.")
