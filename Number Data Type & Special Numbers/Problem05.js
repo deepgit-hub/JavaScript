@@ -11,12 +11,12 @@
 // Store each result separately and print its value and typeof.
 let a = NaN===NaN
 let b = NaN+100
-let c =
-let d =
+let c = NaN**0
+let d = Infinity*0
 let e =  
 console.log()
 console.log()
-console.log(NaN**0)
-console.log(Infinity*0)
+console.log()
+console.log()
 console.log(-Infinity/2)
 console.log(Infinity-Infinity)
