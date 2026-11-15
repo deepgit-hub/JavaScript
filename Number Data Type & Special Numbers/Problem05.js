@@ -15,9 +15,4 @@ let c = NaN**0
 let d = Infinity*0
 let e = -Infinity/2
 let f = Infinity-Infinity
-console.log()
-console.log()
-console.log()
-console.log()
-console.log()
-console.log()
+console.log(a,typeof a)
