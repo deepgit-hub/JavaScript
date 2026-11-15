@@ -7,8 +7,7 @@
 // 3. Store every result in a separate variable.
 // 4. Print every result and its typeof.
 // 5. Add comments explaining why each special result occurs.
-//
-// Do not use concepts you haven't learned yet.
+
  
 let a = NaN+NaN 
 let b = Infinity*12
