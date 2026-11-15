@@ -13,10 +13,11 @@ let a = NaN===NaN
 let b = NaN+100
 let c = NaN**0
 let d = Infinity*0
-let e =  
+let e = -Infinity/2
+let f = Infinity-Infinity
 console.log()
 console.log()
 console.log()
 console.log()
-console.log(-Infinity/2)
-console.log(Infinity-Infinity)
+console.log()
+console.log()
